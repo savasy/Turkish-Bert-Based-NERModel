@@ -2,6 +2,9 @@
 This model is based on BERTurk
 https://huggingface.co/dbmdz/bert-base-turkish-cased
 
+Ner Model Link
+https://huggingface.co/savasy/bert-base-turkish-ner-cased
+
 ## DataSet
 Training dataset is WikiAnn
 
