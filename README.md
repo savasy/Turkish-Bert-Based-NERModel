@@ -1,5 +1,5 @@
 # How the model was trained
-This model is used for Name Entity Recognition based on BERTurk for Turkish Language 
+This model is used for Named-Entity Recognition based on BERTurk for Turkish Language 
 https://huggingface.co/dbmdz/bert-base-turkish-cased
 
 Ner Model Link
